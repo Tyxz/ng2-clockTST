@@ -1,10 +1,10 @@
 // Import all services
-import {TSTDate} from './services/clockTST';
+import { DateTST } from './services/date-tst.service';
 
 // Export all services
-export * from './services/clockTST';
+export * from './services';
 
 // Export convenience property
 export const PROVIDERS: any[] = [
-  TSTDate
+  DateTST
 ];

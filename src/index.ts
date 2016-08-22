@@ -10,4 +10,4 @@ export default {
   // directives: [DIRECTIVES],
   // pipes: [PIPES],
   providers: [PROVIDERS]
-}
+};
